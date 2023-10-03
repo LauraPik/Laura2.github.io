@@ -1,0 +1,166 @@
+
+.main{
+    margin: 0;
+    width: 100%;
+
+}
+.clear {
+    clear: both;
+}
+.icon{
+    width: 200px;
+    float: left;
+    height: 100px;
+    margin-left: 300px;
+    margin-top: 40px;
+}
+.icon1{
+    width: 200px;
+    float: left;
+    height: 100px;
+    margin-left: -80px;
+    margin-top: 40px;
+}
+.logo{
+
+
+}
+.img1{
+    float: left;
+    width: 63px;
+    height: 63px;
+    margin-left: 25px;
+
+}
+.menu{
+    width: 400px;
+    float: left;
+    height: 70px;
+}
+ul{
+    float: left;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 50px;
+    font-size: 16px;
+    color: #8B8B8B; 
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1.6px; 
+}
+ul li a{
+    font-size: 16px;
+    color: #8B8B8B; 
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1.6px;
+    text-decoration: none;
+}
+.contact p{
+    float: right;
+    width: 158px;
+    margin-top: 65px;
+    height: 58px;
+    padding-right: 900px;
+
+}
+.contact p a{
+    line-height: normal;
+    letter-spacing: 1.6px;
+    text-decoration: none;
+    border: 1px solid #FF64AE;
+    border-radius: 45px;
+    background-color: #FF64AE;
+    color: aliceblue;
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+   
+}
+h3{
+    width: 200px;
+    float: left;
+    height: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 40px;
+    color: #FF64AE;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 125%;
+    margin-bottom: -50px;
+}
+.p1{
+    width: 487px;
+    height: 72px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.p1 h1{
+    color: #091156;
+    font-family: Poppins;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 125%; /* 45px */ 
+}
+.p2{
+    float:right;
+    width: 407px;
+    height: 72px;
+    margin-left: 1400px;
+    margin-right: 1100px;
+}
+.p2 p{
+    color: #8B8B8B;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 1.6px;  
+
+}
+.input{
+    float:right;
+    width: 700px;
+    height: 100px;
+    margin-left: 800px;
+    margin-right: 800px;
+    margin-bottom: -10px;
+}
+.picture{
+    float:left;
+    margin-left: 300px;
+}
+.input .input1{
+    width: 242px;
+    height: 61px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap:65px;
+    margin-bottom: 30px;
+}
+.input .input1 i{
+    border-radius: 15px;
+    border: 1px solid #D9DDFE;
+    background: #FFF; 
+    
+}
+.input .input2{
+    width: 242px;
+    height: 61px;
+    margin-bottom: -20px;
+}
+.input .input2 i{
+    border-radius: 15px;
+    border: 1px solid #D9DDFE;
+    background: #FFF;
+    border-radius: 15px;
+}
